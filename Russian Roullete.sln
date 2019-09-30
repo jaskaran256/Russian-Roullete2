@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Russian_Roullete", "Russian Roullete\Russian_Roullete.csproj", "{F5978E73-9252-43C0-AEE1-8DB42A888CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D2B439A5-C98B-4B62-8B46-88250C2720D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Debug|x64.ActiveCfg = Debug|x64
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Debug|x64.Build.0 = Debug|x64
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Release|x64.ActiveCfg = Release|x64
+		{F5978E73-9252-43C0-AEE1-8DB42A888CE6}.Release|x64.Build.0 = Release|x64
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Debug|x64.ActiveCfg = Debug|x64
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Debug|x64.Build.0 = Debug|x64
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Release|x64.ActiveCfg = Release|x64
+		{D2B439A5-C98B-4B62-8B46-88250C2720D4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A78496C-041E-4DEB-9124-C5485C67B1D8}
+	EndGlobalSection
+EndGlobal
